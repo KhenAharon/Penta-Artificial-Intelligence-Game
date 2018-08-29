@@ -1,6 +1,11 @@
 # Penta-Artificial-Intelligence-Game
 
 Hi, this is an artificial intelligence game I implemented (MiniMax based).
+The artificial intelligence is MiniMax and uses Alpha-beta pruning:
+```
+https://en.wikipedia.org/wiki/Minimax
+https://en.wikipedia.org/wiki/Alpha-beta_pruning
+```
 
 ## Rules of the game:
 ```
