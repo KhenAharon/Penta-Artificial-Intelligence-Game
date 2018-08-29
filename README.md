@@ -8,8 +8,12 @@ https://en.wikipedia.org/wiki/Pente
 ```
 
 ## Run the game
+### Option 1 - compile
 You can compile the java files using JDK and remember to have the resources in the same directory of source files.
+### Option 2 - run my compiled game
+You can also just run the game with the provided jar file (compiled):
+```
+java -jar Penta.jar
+```
 
-You can also just run the game with the provided jar file (compiled).
-
-Enjoy and lose.
+#### Enjoy and lose.
